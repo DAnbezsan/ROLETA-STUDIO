@@ -1,0 +1,4 @@
+{
+  "name": "Roleta Premiada Interativa",
+  "description": "Uma aplicação de roleta de prêmios interativa e visualmente atraente, construída com React e Tailwind CSS. Os usuários podem girar a roleta para ganhar prêmios virtuais de forma divertida."
+}
